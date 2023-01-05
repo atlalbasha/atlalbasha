@@ -6,10 +6,13 @@ Full Stack Developer
 
 Full stack developer, a nerd, an IT professional, and an aspiring website and mobile app developer. I enjoy a wide range of IT topics, but the goal is building professional and easy to use apps that leave people with a smile on their face...
 
+* 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/atlal-basha-a75b291a3/)
 * ✉️  You can contact me at [atlal.basha@gmail.com](mailto:atlal.basha@gmail.com)
+* 🚀  I'm currently working on [Grocery App / Flutter, GetX, Firebase](http://github.com/atlalbasha/grocery_app_2022)
+* 🧠  I'm learning Ethical Hacking Bootcamp 2023
 
 <a href="https://www.github.com/atlalbasha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/atlalbasha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/atlalbasha?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -41,14 +44,18 @@ src="https://img.shields.io/github/followers/atlalbasha?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/atlal.basha#8938" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/atlalbasha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/atlal.basha#8938" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/atlalbasha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/atlal-basha-a75b291a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/atlalbasha"><img src="https://github-readme-stats.vercel.app/api?username=atlalbasha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atlalbasha's GitHub stats" /></a>
+<a href="http://www.github.com/atlalbasha"><img src="https://github-readme-stats.vercel.app/api?username=atlalbasha&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="atlalbasha's GitHub stats" /></a>
 
-<a href="http://www.github.com/atlalbasha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atlalbasha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/atlalbasha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atlalbasha&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/atlalbasha"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=atlalbasha&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/atlalbasha"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=atlalbasha&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/atlalbashas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
